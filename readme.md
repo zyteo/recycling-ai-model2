@@ -2,6 +2,6 @@
 
 NTU BFA Intake 9 Group 6 ML Model.
 
-Uses webcam image data.
+Uses kaggle image data.
 
 https://recycling-ai-model2.netlify.app/
