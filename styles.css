@@ -22,3 +22,9 @@ button {
   cursor: pointer;
   border-radius: 20px;
 }
+
+a {
+  color: #333;
+  text-decoration: none;
+  color: white;
+}
