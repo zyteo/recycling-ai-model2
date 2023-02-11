@@ -3,7 +3,6 @@ body {
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
   color: #333;
-  line-height: 1.5;
   display: grid;
   justify-content: center;
 }
@@ -21,6 +20,7 @@ button {
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 20px;
+  height: fit-content;
 }
 
 a {
@@ -35,4 +35,7 @@ a {
   margin: 4px 2px;
   cursor: pointer;
   border-radius: 20px;
+  justify-content: center;
+  display: flex;
+  height: fit-content;
 }
